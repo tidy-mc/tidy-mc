@@ -4,7 +4,7 @@
 
 ## 🌟 What I do :
 
-- **Full-Stack Development**: Responsive frontends (React, Vue, Next.js, WebGL) + Scalable backends (Django, Node.js, Go, Laravel, WP, CI)
+- **Full-Stack Development**: Frontends (React, Vue, Next.js, WebGL) + Scalable backends (Django, Node.js, Go, Laravel, WP, CI)
 - **AI, Automation & Trading Bots**: AI-driven solutions for process optimization and customizable trading bots
 - **Blockchain & Smart Contract Solutions**: Secure smart contracts, token development, dApps, and cross-chain interoperability
 - **Unity & NFT & Web3 Integration**: NFT development, marketplace integration, and Web3 capabilities for decentralized apps
