@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub!
-
 ## About Me
 Businessman says, <bold>Market is a device for transferring money from the impatient to the patient.</bold>. <br /> <bold>But I say, Think of the market as a Git repo — commit with patience, push with purpose.</bold>
 
